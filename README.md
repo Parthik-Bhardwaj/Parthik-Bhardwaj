@@ -1,4 +1,4 @@
-<h1>Hi, I'm Parthik! <br/>A Graduate Student, Cybersecurity Professional, Learner...</h1>
+<h1>Hi, I'm Parthik!</h1> <h2>A Graduate Student, Cybersecurity Professional, Learner...</h2>
 
 
 <h2>👨🏻‍💻 Cybersecurity Projects:</h2>
@@ -6,7 +6,16 @@
 - <b>Digital Envelope</b>
   - [POC of digital envelope in Bash](https://github.com/Parthik-Bhardwaj/Digital-Envelope)
 - <b>Simple Ransomware in Python</b>
-  - [Malware that encrypts every file under a given directory](https://github.com/Parthik-Bhardwaj/Simple_Ransomware) <b>
+  - [Malware that encrypts every file under a given directory](https://github.com/Parthik-Bhardwaj/Simple_Ransomware)
+- <b>File Integrity Monitor</b>
+  - [Script that monitors for any modifications in file](https://github.com/Parthik-Bhardwaj/File-Integrity-Monitor)  
+  
+<h2>📜 Certificates:</h2>
+
+- [Spot Award by Deloitte management based on exceptional performance and client feedback | May 2022] (https://imgur.com/a/eiKqjyl)
+- [eLearnSecurity Junior Penetration Tester | September 2021](https://verified.elearnsecurity.com/certificates/a1be654f-07a3-46fc-ab8d-8afc163f97e2)
+- [Security Analyst Fundamentals by IBM (via Coursera) | May 2021](https://coursera.org/share/a5c86f5af6caecc38bfc2b0b23f2f78c)
+- [IT Fundamentals for Cybersecurity by IBM (via Coursera) | May 2021](https://coursera.org/share/c29c7c6a26c04549e724f8e52dd8ff79) 
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
